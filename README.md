@@ -12,6 +12,7 @@ Start the project using  -  `Ctrl+F5` or `Run it by clicking on the IIS Express 
 1. install-package Microsoft.EntityFrameworkCore.SqlServer
 2. install-package Microsoft.EntityFrameworkCore.Tools
 3. install-package Microsoft.EntityFrameworkCore.SqlServer.Design
+4. install-swashbuckle(swagger)
 4. Run the project using `Ctrl+F5` or `Run it by clicking on the IIS Express in Visual Studio`
 
             * NOTE: I HOPE YOU ENJOY IT *
